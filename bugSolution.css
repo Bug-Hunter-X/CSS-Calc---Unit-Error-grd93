@@ -1,0 +1,1 @@
+The issue is resolved by ensuring that all values within the `calc()` function have units.  The correct syntax is to specify units for all values, like so: `width: calc(50% - 10px);`  This ensures that the browser can correctly perform the calculation.
