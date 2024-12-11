@@ -1,0 +1,1 @@
+This repository demonstrates a common error when using the CSS `calc()` function.  The error stems from omitting units in the calculation, causing unexpected rendering behaviors. The `bug.css` file shows the incorrect code.  The `bugSolution.css` file provides the corrected version.
